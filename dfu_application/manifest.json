@@ -1,6 +1,6 @@
 {
     "format-version": 1,
-    "time": 1793113247,
+    "time": 1793123838,
     "files": [
         {
             "type": "application",
@@ -10,10 +10,10 @@
             "image_index": "0",
             "slot_index_primary": "1",
             "slot_index_secondary": "2",
-            "version_MCUBOOT": "2.0.0+0",
-            "size": 320204,
+            "version_MCUBOOT": "2.0.1+0",
+            "size": 320200,
             "file": "smart_power_socket.signed.bin",
-            "modtime": 1793113247
+            "modtime": 1793123838
         }
     ],
     "name": "smart_power_socket"
